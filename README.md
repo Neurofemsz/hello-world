@@ -1,2 +1,4 @@
 # hello-world
-first repository on git hub
+hi humans,
+
+i like html5, c# and python programming language
